@@ -1,0 +1,76 @@
+body{
+    background-color:#28212A ;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.conatiner{
+    border:  2px solid white;
+    border-image:   linear-gradient(to right, grey 25%, yellow 25%, yellow 50%,red 50%, red 75%, teal 75%) 5 !important;
+    margin-top: 100px !important;
+    padding-top: 30px;
+    margin: 0px auto;
+    max-height: fit-content;
+    width:500px;
+    background-color: black;
+
+}
+#line{
+    color: white;
+    font-weight: bold;
+    margin-top: 0px;
+
+}
+#input1{
+    height: 35px;
+    width: 220px;
+    position: sticky;
+    margin: 20px 80px ;
+    margin-right: 20px !important;
+    background-color:antiquewhite;
+    outline: none;
+    border: none;
+    border: 2px solid ;
+    border-image:   linear-gradient(to right, grey 25%, yellow 25%, yellow 50%,red 50%, red 75%, teal 75%) 5 !important;
+    padding-left: 20px;
+    padding-bottom: 5px;
+    font-size: large;
+    color: black;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+}
+.removebtns{
+    height: 40px;
+    width: 80px;
+    background-color: white;
+    padding: 5px 5px;
+    border-radius: 12px;
+    font-size: large;
+    color: black;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    border: none;
+    border: 2px solid black;
+    margin-left: 250p;
+    margin-bottom: 20px;
+    margin: 0px 90px 0px 150px;
+     
+}
+#btn{
+    height: 40px;
+    width: 50px;
+    margin-top: 10px !important;
+    border-radius: 15px;
+}
+
+p{
+    color: white;
+    border: 2px solid white;
+    height: 40px;
+    width:400px;
+    margin-right: 0px !important;
+    margin-left: 50px;
+    padding-left: 30px;
+    padding-bottom: 12px !important;
+}
